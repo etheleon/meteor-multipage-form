@@ -7,7 +7,7 @@ Installtion
 -----------
 
 ```
-meteor add dpankros:multi-page-form
+meteor add dpankros:multipage-form
 ```
   
 Example
